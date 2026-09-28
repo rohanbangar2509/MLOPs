@@ -1,0 +1,14 @@
+{
+  "model": "RandomForestClassifier",
+  "n_estimators": 200,
+  "accuracy": 0.8833,
+  "features": [
+    "study_hours",
+    "attendance_pct",
+    "previous_score",
+    "assignments_completed",
+    "sleep_hours"
+  ],
+  "training_rows": 960,
+  "testing_rows": 240
+}
