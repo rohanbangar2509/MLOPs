@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.airflow/
+airflow.db
+*.db
+logs/
+data/processed/*
+data/raw/
+!data/processed/.gitkeep
+reports/*.json
+.vscode/
+.idea/
