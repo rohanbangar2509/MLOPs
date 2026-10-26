@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model and artifacts (uncomment selected files if you want to commit them)
+artifacts/model.joblib
+artifacts/*.json
+artifacts/*.csv
+artifacts/*.png
+artifacts/*.html
+artifacts/*.txt
